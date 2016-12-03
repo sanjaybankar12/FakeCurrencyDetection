@@ -1,0 +1,6 @@
+mygmailserver.HeadPanel
+mygmailserver.MailFrame
+mygmailserver.google
+mygmailserver.FootPanel
+mygmailserver.FramePanel
+mygmailserver.google2
